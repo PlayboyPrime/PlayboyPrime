@@ -1,6 +1,5 @@
 <div align="center">
   <h1>PlayboyPrime</h1>
-  <img src="https://avatars.githubusercontent.com/u/55946112">
   <br></br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=55 height=55> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=60 height=60> 
