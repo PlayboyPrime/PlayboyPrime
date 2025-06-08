@@ -8,7 +8,7 @@
 </div>
 <br>
 
-Currently working on my own script language. It looks like this
+currently working on my own script language
 ```
 import Math::PI as pi
 
@@ -27,3 +27,9 @@ repeat (i = 0, 5)
   print(count)
 }
 ```
+
+Example Code | Compiled
+-------------|---------
+![image](https://github.com/user-attachments/assets/f4cc2e51-b76f-4b0b-aeb1-059a41f1fecf) | ![image](https://github.com/user-attachments/assets/4b69ba1f-2397-4ad7-910d-ed57c78d9fde)
+
+
