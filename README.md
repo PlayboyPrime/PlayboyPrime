@@ -22,7 +22,18 @@
     <li>Nebula (Previously called SuperBase)</li>
     <li>Mainly focused on GUI and backend. Does not have many features since it was first intended to be a public base</li>
   </ul>
-  <img width="512" height="398" alt="image" src="https://github.com/user-attachments/assets/9d2065e7-d5c8-4ccd-8a43-64e37eb6c63b" />
+  <li><img width="512" height="398" alt="image" src="https://github.com/user-attachments/assets/9d2065e7-d5c8-4ccd-8a43-64e37eb6c63b" /></li>
+</details>
+
+<details> 
+  <summary>x64 Binary Obfuscator</summary>
+  <ul>
+    <li>Obfuscates x64 binaries to make reverse engineering harder</li>
+  </ul>
+  <h3>Original main</h3>
+  <li><img width="833" height="745" alt="image" src="https://github.com/user-attachments/assets/09400633-20c1-4a85-8c6a-69cad7952da7" /></li>
+  <h3>Obfuscated same function</h3>
+  <li><img width="937" height="621" alt="image" src="https://github.com/user-attachments/assets/b5e646d7-a378-4fe0-98ff-e1de0110942a" /></li>
 </details>
 
 <details> 
