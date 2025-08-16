@@ -1,13 +1,15 @@
 <div align="center">
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=55 height=55> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=60 height=60> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=55 height=55>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=55 height=55>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=55 height=55>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=55 height=55>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width=55 height=55>
   <br>
   </div>
   <div>
-    <img decoding="async" loading="lazy" align="center" alt="GitHub Stats" src="https://github-readme-stats-navy-two-40.vercel.app/api?username=PlayboyPrime&theme=dark&show_icons=true&custom_title=Github%20Stats&hide_rank=true&include_all_commits=true&line_height=28" />
-    <img decoding="async" loading="lazy" align="center" alt="Top Languages" src="https://github-readme-stats-navy-two-40.vercel.app/api/top-langs?username=PlayboyPrime&theme=dark&show_icons=true&custom_title=Top%20Languages&layout=donut&line_height=28&exclude_repo=GTAV-Decompiled-Scripts" />
+    <img align="center" alt="GitHub Stats" src="https://github-readme-stats-navy-two-40.vercel.app/api?username=PlayboyPrime&theme=dark&show_icons=true&custom_title=Github%20Stats&hide_rank=true&include_all_commits=true&line_height=28" />
+    <img align="center" alt="Top Languages" src="https://github-readme-stats-navy-two-40.vercel.app/api/top-langs?username=PlayboyPrime&theme=dark&show_icons=true&custom_title=Top%20Languages&layout=donut&line_height=28&exclude_repo=GTAV-Decompiled-Scripts" />
   </div>
 </div>
 <br>
