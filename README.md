@@ -14,7 +14,20 @@
 </div>
 <br>
 
-# Main Projects
+# Main Project
+<h3>NebulaScript</h3>
+<img width="150" height="150" alt="Logo" src="https://github.com/user-attachments/assets/6cc8607d-bc9e-497e-ba58-caf063a06d48" />
+<ul>
+  <li>Static typed script language designed to be embedded</li>
+  <li>Completly written from scratch</li>
+  <li>Currently it has variables, expressions, functions and exports. Next features will be control flow, external functions & variables, loops, more operators, structs, memory management and more</li>
+	
+
+  <li><img width="517" height="308" alt="image" src="https://github.com/user-attachments/assets/572bb245-4ed0-48a1-b28e-0d9d8b47a680" /></li>
+  <li><p>No GUI yet ¯\_(ツ)_/¯</p> <img width="600" height="602" alt="image" src="https://github.com/user-attachments/assets/02d70c60-a9b9-4701-b3fb-2bd4f4df0622" /></li>
+</ul>
+
+# Other Projects
 
 <details> 
   <summary>GTAV (Legacy & Enhanced) & RDR2 Mod Menu</summary>
@@ -70,123 +83,6 @@
         </ul>
       </details>
     </li>
-  </ul>
-</details>
-
-<details> 
-  <summary>Static Typed Langauge (unfinished)</summary>
-  <ul>
-    <li>NebulaScript</li>
-    <li>Also completly written from scratch like SigmaScript</li>
-    <li>Its still unfinished. Currenly it can compile variables and expressions</li>
-    <li>It is mainly intended to be embedded</li>
-    <li>This is the concept I wrote for it:</li>
-
-- Break out of nested loops:
-```cpp
-while LoopName (true) {
-	while (true) {
-		break LoopName; // Break out of labeled loop
-	}
-
-	break; // Break out of current loop - Never reached in this example
-}
-```
-
-- Default arguments for functions at any position:
-```cpp
-int example(int a, int b = 2, int c) {
-	return a + b + c;
-}
-
-int example(1, , 3); // Second argument defaults to 2
-```
-
-- Multiple variables for if statements:
-```cpp
-if (int a, int b; func(&a, &b)) {
-	...
-}
-```
-
-- Functions with multiple return values (like lua & Python):
-```cpp
-int, int func() {
-	return 1, 2;
-}
-
-int a, int b = func();
-```
-
-- New Loops:
-```c
-// while (true) style
-loop {
-	...
-}
-
-// do while style
-loop {
-	...
-}
-while (...)
-```
-
-- Only struct (no class) and inline private support:
-```cpp
-struct Example {
-	int a;
-	private int b;
-private:
-	int c;
-public:
-	int d;
-};
-```
-
-- getter and setter:
-```cpp
-struct Example {
-private:
-	int a;
-	public getter int a() {
-		return a;
-	};
-
-public:
-	int b;
-	setter int b(int value) {
-		b = value;
-		return b;
-	};
-};
-```
-
-- goto, labels and inline assembly:
-```cpp
-s8 num = 0;
-
-check_num:
-if (num > 10)
-	goto num_more_than_10;
-
-asm {
-	movi8 num, 10 // or implicit with movi num, 10
-	jmp check_num
-}
-
-num_more_than_10:
-...
-```
-
-### More:
-- C++ like syntax
-- Mainly focused on embedding
-- Easily allow embedders to add variables and C++ functions that can be used and called from NebulaScript
-- Pointer support
-- Multithreading support
-- JIT & VM Compilation
-- Easy to understand compiler errors
   </ul>
 </details>
 
