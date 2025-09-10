@@ -79,7 +79,7 @@
       <details> 
         <summary>Experimental JIT Compiler</summary>
         <li>In case you dont know: JIT Compiler directly compiles to machine code instead of using a VM</li>
-        <li>Code here was: return 123.f</li>
+        <li>Code here was 'return 123.f'</li>
         <ul>
           <li><img width="417" height="537" alt="image" src="https://github.com/user-attachments/assets/bf56d658-95af-448e-b5be-f3c94adf9961" /></li>
         </ul>
@@ -105,7 +105,7 @@
 <details> 
   <summary>GTAV Injector</summary>
   <li>Legacy & Enhanced. Rockstar Launcher, Epic Games & Steam</li>
-  <li>Repo: https://github.com/PlayboyPrime/GTAV-Injector</li>
+  <li>Repo: https://github.com/zzepine/GTAV-Injector</li>
   <ul>
     <li><img width="734" height="271" alt="image" src="https://github.com/user-attachments/assets/80538650-d839-4978-aaf8-77923f2f0a87" /></li>
   </ul>
