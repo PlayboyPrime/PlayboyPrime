@@ -15,8 +15,10 @@
 <br>
 
 # Main Project
-<h3>NebulaScript</h3>
-<img width="150" height="150" alt="Logo" src="https://github.com/user-attachments/assets/6cc8607d-bc9e-497e-ba58-caf063a06d48" />
+<div align="center">
+	<h3>NebulaScript</h3>
+	<img width="150" height="150" alt="Logo" src="https://github.com/user-attachments/assets/6cc8607d-bc9e-497e-ba58-caf063a06d48" />
+</div>
 <ul>
   <li>Static typed script language designed to be embedded</li>
   <li>Completly written from scratch</li>
