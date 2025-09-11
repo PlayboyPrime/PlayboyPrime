@@ -22,7 +22,7 @@
 <ul>
   <li>Static typed script language designed to be embedded</li>
   <li>Completly written from scratch</li>
-  <li>Currently it has variables, expressions, functions and exports. Next features will be control flow, external functions & variables, loops, more operators, structs, memory management and more</li>
+  <li>Currently it has variables, expressions, functions, exports and external functions & variables. Next features will be control flow, loops, more operators, structs, memory management and more</li>
 	
 
   <li><img width="517" height="308" alt="image" src="https://github.com/user-attachments/assets/572bb245-4ed0-48a1-b28e-0d9d8b47a680" /></li>
