@@ -25,8 +25,20 @@
   <li>Currently it has variables, expressions, functions, exports and external functions & variables. Next features will be control flow, loops, more operators, structs, memory management and more</li>
 	
 
-  <li><img width="517" height="308" alt="image" src="https://github.com/user-attachments/assets/572bb245-4ed0-48a1-b28e-0d9d8b47a680" /></li>
-  <li><p>No GUI yet ¯\_(ツ)_/¯</p> <img width="600" height="602" alt="image" src="https://github.com/user-attachments/assets/02d70c60-a9b9-4701-b3fb-2bd4f4df0622" /></li>
+  <li><img width="344" height="205" alt="image" src="https://github.com/user-attachments/assets/572bb245-4ed0-48a1-b28e-0d9d8b47a680" /></li>
+  <li><p>No GUI yet ¯\_(ツ)_/¯</p> <img width="300" height="301" alt="image" src="https://github.com/user-attachments/assets/02d70c60-a9b9-4701-b3fb-2bd4f4df0622" /></li>
+
+  <ul>
+    <details> 
+      <summary>External Functions & Variables</summary>
+      <ul>
+        <li><p>External Functions Code</p><img width="395" height="404" alt="image" src="https://github.com/user-attachments/assets/b227284a-843f-4938-a9a0-bc1a146a0702" /></li>
+        <li><p>Adding to Compiler</p><img width="355" height="325" alt="image" src="https://github.com/user-attachments/assets/62c1b38e-6e0c-4b66-a782-dca17d4bf999" /></li>
+        <li><p>Using in Script</p><img width="390" height="148" alt="image" src="https://github.com/user-attachments/assets/29ab10ef-3b52-4909-a347-9eb9a34d10cc" /></li>
+        <li><p>Instructions & Execution</p><img width="263" height="248" alt="image" src="https://github.com/user-attachments/assets/2c7c2fba-6485-4786-96b0-99ae888a4e86" /></li>
+      </ul>
+    </details>
+  </ul>
 </ul>
 
 # Other Projects
