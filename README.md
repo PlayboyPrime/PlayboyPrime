@@ -25,8 +25,8 @@
   <li>Currently it has variables, expressions, functions, exports and external functions & variables. Next features will be control flow, loops, more operators, structs, memory management and more</li>
 	
 
-  <li><img width="344" height="205" alt="image" src="https://github.com/user-attachments/assets/572bb245-4ed0-48a1-b28e-0d9d8b47a680" /></li>
-  <li><p>No GUI yet ¯\_(ツ)_/¯</p> <img width="300" height="301" alt="image" src="https://github.com/user-attachments/assets/02d70c60-a9b9-4701-b3fb-2bd4f4df0622" /></li>
+  <li><img width="344" height="205" alt="image" src="https://github.com/user-attachments/assets/cb7ea20b-ecef-44a1-a348-d31a716ad60a" /></li>
+  <li><p>No GUI yet ¯\_(ツ)_/¯</p> <img width="300" height="301" alt="image" src="https://github.com/user-attachments/assets/deecdeaa-4545-494e-989c-8d99bafa36ff" /></li>
 
   <ul>
     <details> 
